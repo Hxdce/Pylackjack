@@ -5,7 +5,6 @@ Created by Hxdce in early(?) 2018.
 NOTE: This project is really old and has a lot of beginner code.
 
 &nbsp;
-&nbsp;
 
 Tools used: PyCharm, Aseprite
 
